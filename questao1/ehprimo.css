@@ -1,0 +1,44 @@
+body{
+	background-color: #4169E1;
+}
+
+.tela{
+	position:  absolute;
+	background-color: #4169E1;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding-bottom: 100px;
+	padding-top: 30px;
+	padding-left: 100px;
+	padding-right: 100px;
+	border-style: none;
+
+}
+
+h2{
+	color:  white;
+	padding-bottom:  20px;
+}
+
+p{
+	color:  #E0FFFF;
+}
+
+label{
+	color: white;
+}
+
+input{
+	background-color:  white;
+	border-style: inset;
+	border-color: lightgray;
+	border-width: 0.25px;
+	border-radius: 3px;
+}
+
+button{
+	color: #6495ED;
+	height: 20px;
+	width: 30px;
+}
